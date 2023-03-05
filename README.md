@@ -37,8 +37,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavAlekseenko)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/YaroslavAlekseenko/YaroslavAlekseenko/output/github-contribution-grid-snake.svg)
-
 <!--
 **YaroslavAlekseenko/YaroslavAlekseenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
